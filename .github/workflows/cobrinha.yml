@@ -1,17 +1,17 @@
 name: Generate Snake Animation
 
 on:
-	# execute every 12 hours
-	schedule:
-		- cron: "* */12 * * *"
+  # execute every 12 hours
+  schedule:
+    - cron: "* */12 * * *"
 
-	# allows to manually run the job at any time
-	workflow_dispatch:
+  # allows to manually run the job at any time
+  workflow_dispatch:
 
-	# run on every push on the master branch
-	push:
-		branches:
-		- master
+  # run on every push on the master branch
+  push:
+    branches:
+    - master
 
 
 
