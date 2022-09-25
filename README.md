@@ -57,12 +57,75 @@
 <br />
 <br />
 
-### Competências Técnicas / Hard Skills 🦾
+### Competências Técnicas / Hard Skills :wrench:
 
 <br />
 <br />
 
 Lista de alguns dos sistemas e aplicações das quais já prestei suporte, fiz implantação, migrei, densenvoli, etc...
+
+<div style="display: inline_block"><br/>
+	<!-- Sistemas Operacionais -->
+	<code><img alt="Ed-unix" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" /></code>
+	<code><img alt="Ed-linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /></code>
+	<code><img alt="Ed-ubuntu" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" /></code>
+	<code><img alt="Ed-debian" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-plain.svg" /></code>
+	<code><img alt="Ed-centos" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" /></code>
+	<!-- Desenvolvimento Desktop-Server -->
+	<code><img alt="Ed-bash" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /></code>
+	<code><img alt="Ed-composer" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" /></code>
+	<code><img alt="Ed-cplusplus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></code>
+	<code><img alt="Ed-qt" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/qt/qt-original.svg" /></code>
+	<!-- Desenvolvimento IoT -->
+	<!-- Desenvolvimento Mobile -->
+	<!-- Desenvolvimento WEB -->
+	<code><img alt="Ed-bootstrap" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" /></code>
+	<code><img alt="Ed-css3" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></code>
+	<code><img alt="Ed-d3js" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/d3js/d3js-original.svg" /></code>
+	<code><img alt="Ed-eslint" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eslint/eslint-original.svg" /></code>
+	<code><img alt="Ed-html5" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></code>
+	<code><img alt="Ed-javascript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /></code>
+	<code><img alt="Ed-nextjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" /></code>
+	<code><img alt="Ed-nuxtjs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nuxtjs/nuxtjs-original.svg" /></code>
+	<code><img alt="Ed-php" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /></code>
+	<code><img alt="Ed-typescript" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></code>
+	<code><img alt="Ed-vuejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" /></code>
+	<code><img alt="Ed-vuetify" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuetify/vuetify-original.svg" /></code>
+	<code><img alt="Ed-webpack" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" /></code>
+	<code><img alt="Ed-wordpress" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" /></code>
+	<!-- Bancos de Dados -->
+	<code><img alt="Ed-microsoftsqlserver" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" /></code>
+	<code><img alt="Ed-mongodb" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" /></code>
+	<code><img alt="Ed-mysql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" /></code>
+	<code><img alt="Ed-oracle" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" /></code>
+	<code><img alt="Ed-postgresql" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" /></code>
+	<code><img alt="Ed-prometheus" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" /></code>
+	<code><img alt="Ed-redis" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" /></code>
+	<!-- IDE's -->
+	<code><img alt="Ed-cmake" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cmake/cmake-original.svg" /></code>
+	<code><img alt="Ed-gcc" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gcc/gcc-original.svg" /></code>
+	<code><img alt="Ed-intellij" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" /></code>
+	<code><img alt="Ed-jetbrains" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" /></code>
+	<code><img alt="Ed-jquery" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" /></code>
+	<code><img alt="Ed-markdown" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" /></code>
+	<code><img alt="Ed-phpstorm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/phpstorm/phpstorm-original.svg" /></code>
+	<code><img alt="Ed-visualstudio" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" /></code>
+	<code><img alt="Ed-vscode" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" /></code>
+	<!-- Log -->
+	<code><img alt="Ed-grafana" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" /></code>
+	<!-- Servidores -->
+	<code><img alt="Ed-apache" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" /></code>
+	<code><img alt="Ed-nginx" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" /></code>
+	<code><img alt="Ed-nodejs" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /></code>
+	<!-- Programas -->
+	<code><img alt="Ed-git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></code>
+	<code><img alt="Ed-github" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></code>
+	<code><img alt="Ed-gitlab" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" /></code>
+	<code><img alt="Ed-npm" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" /></code>
+	<code><img alt="Ed-putty" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg" /></code>
+	<code><img alt="Ed-ssh" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" /></code>
+	<code><img alt="Ed-subversion" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/subversion/subversion-original.svg" /></code>
+</div>
 
 <br />
 <br />
@@ -79,12 +142,14 @@ Lista de alguns dos sistemas e aplicações das quais já prestei suporte, fiz i
 <br />
 
 <lu><ins>Linguagens de Programação e suas Frameworks / Programming Languages and their Frameworks</ins>
+- Bootstrap
 - C++
 - JavaScript
 	- Next JS
 	- Nuxt JS
 	- Node JS
 	- Vue JS
+	- Vuetify
 - PHP 
 	- Laravel
 - Shell Script
@@ -100,6 +165,8 @@ Lista de alguns dos sistemas e aplicações das quais já prestei suporte, fiz i
 	- Ubuntu 
 	- CentOS
 - Windows 
+	- 7
+	- 8
 	- 10
 	- Server 2000
 	- Server 2003
@@ -143,7 +210,7 @@ Lista de alguns dos sistemas e aplicações das quais já prestei suporte, fiz i
 <br />
 <br />
 
-### Competências Comportamentais / Soft Skills 🦾
+### Competências Comportamentais / Soft Skills :chart_with_upwards_trend:
 
 <br />
 <br />
@@ -207,12 +274,6 @@ Vale mencionar que uma Soft Skill pode pertencer a um ou mais grupos, nesses cas
 - Proatividade / Proactive
 </lu>
 
-
-
-
-<!--
-Desenvolvimento Desktop-Server / Desenvolvimento IoT / Desenvolvimento Mobile / Desenvolvimento WEB
--->
 
 <!--
 **byalexandrepedrosa/byalexandrepedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
