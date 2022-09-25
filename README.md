@@ -275,7 +275,9 @@ Vale mencionar que uma Soft Skill pode pertencer a um ou mais grupos, nesses cas
 </lu>
 
 
-![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/byalexandrepedrosa/byalexandrepedrosa/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/byalexandrepedrosa/byalexandrepedrosa/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 <!--
 **byalexandrepedrosa/byalexandrepedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
