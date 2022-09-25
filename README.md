@@ -275,6 +275,8 @@ Vale mencionar que uma Soft Skill pode pertencer a um ou mais grupos, nesses cas
 </lu>
 
 
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+
 <!--
 **byalexandrepedrosa/byalexandrepedrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
